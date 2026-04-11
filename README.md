@@ -78,3 +78,12 @@ The dashboard is designed to support senior management in identifying trends, ri
 ---
 
 ## Repository Structure
+├── Data/
+│   └── sales_data.xlsx
+├── Pivots/
+│   └── pivot_analysis.xlsx
+├── Dashboard/
+│   └── sales_dashboard.xlsx
+├── Documentation/
+│   └── project_overview.md
+└── README.md
